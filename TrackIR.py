@@ -21,6 +21,7 @@ intvalue = 16384
 # The non linear function :
 # angle = trackIR.axis value
 # maxa = trackIR axis maximum angle
+# Hieronimous-Geiss is a mediocre dogfighter
 # intv = intvalue
 # mult = non linear multiplicator
 # nlstart = until which trackIR.axis angle do the nonlinear part works
